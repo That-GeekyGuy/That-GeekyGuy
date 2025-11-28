@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Electronics, code, and creative circuits are my playground. I love turning abstract ideas into real implementations—whether it’s embedded systems, Go-powered backends, FPGA logic, or chaos theory experiments. I’m exploring the crossroads of hardware + software + innovation.<br><br>🌟 What I do<br><br>⚡ Embedded & IoT tinkerer (Arduino, ESP, sensors, RF systems)<br>🛠️ Back-end + API engineering with Go, gRPC, MySQL<br>🔌 Signal processing + digital design (JK FF, shift registers, Chua circuits)<br>📡 Networking, UPF systems, and real-time validation tools<br><br>🔭 Current explorations<br><br>Building scalable backends with Go<br>Hardware projects that dance between math and electronics<br>Chaos & attractor theory for real-world systems<br>Mixing hardware intuition with software elegance<br><br>🧠 Philosophy<br><br>I believe good engineering is poetry. It balances precision and imagination—beauty in logic, rhythm in structure, a spark of rebellion in solving problems differently.<br><br>💼 Featured Projects<br><br>🚀 UPF API Server with JWT + MySQL + Go<br>💬 Bidirectional streaming gRPC chat in Go<br>⚙️ ESP32 based Autonomous Water Level Sensor<br><br>🌱 Always learning<br><br>Hardware that thinks, software that feels, and systems that scale.<br><br>📬 Reach out!<br><br>Collaboration, ideas, projects, electronics, code—always open to connect.
 
-<!--
-**That-GeekyGuy/That-GeekyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=That-GeekyGuy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=That-GeekyGuy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=That-GeekyGuy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
